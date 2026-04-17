@@ -2,12 +2,16 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,hbox.jp
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fc2hub.com
+DOMAIN-SUFFIX,fc2ppvdb.com
+DOMAIN-SUFFIX,mgstage.com
+DOMAIN-SUFFIX,prestige-av.com
+DOMAIN-SUFFIX,caribbeancom.com
+DOMAIN-SUFFIX,video.amazon.co.jp
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,hbox
 DOMAIN-KEYWORD,dmm
+DOMAIN-KEYWORD,fanza
 DOMAIN-KEYWORD,dmhy
-DOMAIN-KEYWORD,prestige-av
-DOMAIN-KEYWORD,fc2
-DOMAIN-KEYWORD,caribbeancom
-DOMAIN-KEYWORD,mgstage
